@@ -1,0 +1,12 @@
+{
+    "applinks": {
+      "apps": [],
+      "details": [
+        {
+          "appID": "J3N6TWA87X.app.expert",
+          "paths": ["/posts/*", "/forums/*", "/resources/*","/events/*","/group/*"]
+        }
+      ]
+    }
+  }
+  

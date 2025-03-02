@@ -2,10 +2,9 @@
     {
       "relation": ["delegate_permission/common.handle_all_urls"],
       "target": {
-        "namespace": "android_app",
-        "package_name": "com.yourapp.package",
-        "sha256_cert_fingerprints": ["YOUR_APP_SHA256_FINGERPRINT"]
+        "namespace": "com.example.expert",
+        "package_name": "app.expert",
+        "sha256_cert_fingerprints": ["13:D6:1F:86:04:1E:57:71:82:1B:D8:1E:6C:01:5E:A4:87:63:60:34:1D:0A:9A:A7:B0:42:56:75:A3:42:98:47"]
       }
     }
   ]
-  
